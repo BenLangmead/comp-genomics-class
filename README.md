@@ -8,7 +8,7 @@ Code and examples for JHU Computational Genomics class.  Please feel free to sub
 Notebooks
 ---------
 
-The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view them at the following URLs:
+The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view readable versions of them at the following URLs:
 
 * Exact and approximate matching
     * [Strings]
@@ -68,6 +68,29 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Markov chains]: http://nbviewer.ipython.org/7413873
 
 These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
+
+Other class resources
+---------------------
+
+* Videos
+    * Animation of [DNA wrapping and replication](http://www.youtube.com/watch?v=bW5JnYZImJA)
+    * Animation of [Transcription and translation](http://www.youtube.com/watch?v=41_Ne5mS2ls)
+    * PBS Documentary "DNA" (getting old, but still very good)
+        * Part 1 of 5: [The Secret of Life](http://www.youtube.com/watch?v=d7ET4bbkTm0)
+        * Part 3 of 5: [The Human Race](http://www.youtube.com/watch?v=kpoziqXldJM)
+    * Animation of [how one "3rd-generation" sequencer works](http://www.youtube.com/watch?v=NHCJ8PtYCFc)
+    * Many cool animations of [biological phenomena](http://www.johnkyrk.com/) by John Kyrk
+    * Demo of [pairwise sequence alignment](http://www.cs.umd.edu/class/fall2011/cmsc423/demos/align.html)
+    * Presentation describing [1st, 2nd and 3rd generation sequencing](http://www.youtube.com/watch?v=_ApDinCBt8g) (with campy music)
+        * Note: Helicos is defunct, and Roche 454 and Life Tech SOLiD technologies are not very popular any more
+* Lectures
+    * [Suffix tries and suffix trees](http://www.youtube.com/watch?v=hLsrPsFHPcQ)
+
+TODO
+----
+
+* Add FM Index notebook
+* Add co-traversal notebook
 
 Contributors
 ------------
