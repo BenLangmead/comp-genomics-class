@@ -8,33 +8,38 @@ Code and examples for JHU Computational Genomics class.  Please feel free to sub
 Notebooks
 ---------
 
-The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also avaailable as public GitHub gists and you can view them at the following URLs:
+The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view them at the following URLs:
 
-1. [Strings]
-2. [Naive exact matching]
-3. [Inverted indexing 1]
-4. [Inverted indexing 2]
-5. [Inverted indexing 3]
-6. [Naive approximate matching]
-7. [Boyer-Moore]
-8. [Trie map]
-9. [Suffix trie]
-10. [Suffix tree]
-11. [Python binary search]
-12. [Suffix array binary search]
-13. [LCPs]
-14. [Suffix array and LCPs from Suffix tree]
-15. [Burrows-Wheeler Transform]
-16. [Reversing BWT]
-17. [Edit distance]
-18. [Global alignment]
-19. [Local alignment]
-20. [k-edit dynamic programming]
-21. [String neighborhoods]
-22. [Suffix-prefix matches]
-23. [De Bruijn Graph]
-24. [Error correction]
-25. [Markov chains]
+* Exact and approximate matching
+** [Strings]
+** [Naive exact matching]
+** [Boyer-Moore]
+** [Inverted indexing 1]
+** [Inverted indexing 2]
+** [Inverted indexing 3]
+** [Naive approximate matching]
+* Suffix indexes
+** [Trie map]
+** [Suffix trie]
+** [Suffix tree]
+** [Python binary search]
+** [Suffix array binary search]
+** [LCPs]
+** [Suffix array and LCPs from Suffix tree]
+** [Burrows-Wheeler Transform]
+** [Reversing BWT]
+* Pairwise sequence alignment
+** [Edit distance]
+** [Global alignment]
+** [Local alignment]
+** [k-edit dynamic programming]
+** [String neighborhoods]
+* Sequence assembly
+** [Suffix-prefix matches]
+** [De Bruijn Graph]
+** [Error correction]
+* Sequence classification
+** [Markov chains]
 
 [Strings]: http://nbviewer.ipython.org/6512698
 [Naive exact matching]: http://nbviewer.ipython.org/6513059
@@ -62,7 +67,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Error correction]: http://nbviewer.ipython.org/7339417
 [Markov chains]: http://nbviewer.ipython.org/7413873
 
-These are for teaching purposes.  They are certainly not meant to be efficient.
+These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
 
 Contributors
 ------------
