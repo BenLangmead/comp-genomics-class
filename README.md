@@ -77,18 +77,18 @@ If you are taking my class and you have any trouble accessing these resources, p
 * Class readings
     * [Life and its Molecules](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1744) by Lawrence Hunter
     * [A decade's perspective on DNA sequencing technology](http://www.nature.com/nature/journal/v470/n7333/full/nature09796.html) by Elaine Mardis
-    * [Sequencing technologies -- the next generation](http://www.nature.com/nrg/journal/v11/n1/full/nrg2626.html)
-    * [Suffix arrays: a new method for on-line string searches](http://dl.acm.org/citation.cfm?id=320218)
-    * [Introduction to the Burrows-Wheeler Transform and FM Index](http://www.cs.jhu.edu/~langmea/resources/bwt_fm.pdf)
-    * [Assembly of large genomes using second-generation sequencing](http://genome.cshlp.org/content/20/9/1165.long)
-    * [How to apply de Bruijn graphs to genome assembly](http://www.nature.com/nbt/journal/v29/n11/full/nbt.2023.html)
-    * [Computational prediction of eukaryotic protein-coding genes](http://www.nature.com/nrg/journal/v3/n9/execsumm/nrg890.html)
+    * [Sequencing technologies -- the next generation](http://www.nature.com/nrg/journal/v11/n1/full/nrg2626.html) by Michael Metzker
+    * [Suffix arrays: a new method for on-line string searches](http://dl.acm.org/citation.cfm?id=320218) by Udi Manber and Gene Myers
+    * [Introduction to the Burrows-Wheeler Transform and FM Index](http://www.cs.jhu.edu/~langmea/resources/bwt_fm.pdf) by Langmead
+    * [Assembly of large genomes using second-generation sequencing](http://genome.cshlp.org/content/20/9/1165.long) by Mike Schatz et al
+    * [How to apply de Bruijn graphs to genome assembly](http://www.nature.com/nbt/journal/v29/n11/full/nbt.2023.html) by Phillip Compeau et al
+    * [Computational prediction of eukaryotic protein-coding genes](http://www.nature.com/nrg/journal/v3/n9/execsumm/nrg890.html) by Michael Zhang
 * Further reading
-    * [Replacing suffix trees with enhanced suffix arrays](http://www.sciencedirect.com/science/article/pii/S1570866703000650)
-    * [A Block-sorting Lossless Data Compression Algorithm](http://www.cs.jhu.edu/~langmea/resources/burrows_wheeler.pdf) (describes Burrows-Wheeler Transform)
-    * [Opportunistic data structures with applications](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=892127) (describes FM Index)
-    * [Ultrafast and memory-efficient alignment of short DNA sequences to the human genome](http://www.cs.jhu.edu/~langmea/resources/bowtie.pdf) (describes [Bowtie])
-    * [Fast and accurate short read alignment with Burrows–Wheeler transform](http://bioinformatics.oxfordjournals.org/content/25/14/1754.long)
+    * [Replacing suffix trees with enhanced suffix arrays](http://www.sciencedirect.com/science/article/pii/S1570866703000650) by Mohamed Abouelhoda et al
+    * [A Block-sorting Lossless Data Compression Algorithm](http://www.cs.jhu.edu/~langmea/resources/burrows_wheeler.pdf) by Michael Burrows and David Wheeler (describes Burrows-Wheeler Transform)
+    * [Opportunistic data structures with applications](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=892127) by Paolo Ferragina and Giovanni Manzini (describes FM Index)
+    * [Ultrafast and memory-efficient alignment of short DNA sequences to the human genome](http://www.cs.jhu.edu/~langmea/resources/bowtie.pdf) by Langmead et al (describes [Bowtie])
+    * [Fast and accurate short read alignment with Burrows–Wheeler transform](http://bioinformatics.oxfordjournals.org/content/25/14/1754.long) by Heng Li and Richard Durbin (describes [BWA])
 * Videos
     * Animation of [DNA wrapping and replication](http://www.youtube.com/watch?v=bW5JnYZImJA)
     * Animation of [Transcription and translation](http://www.youtube.com/watch?v=41_Ne5mS2ls)
@@ -104,6 +104,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [Suffix tries and suffix trees](http://www.youtube.com/watch?v=hLsrPsFHPcQ)
 
 [Bowtie]: http://bowtie-bio.sourceforge.net/index.shtml
+[BWA]: http://bio-bwa.sourceforge.net
 
 TODO
 ----
