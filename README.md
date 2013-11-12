@@ -32,7 +32,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Edit distance]
     * [Global alignment]
     * [Local alignment]
-    * [k-edit dynamic programming]
+    * [Index-assisted k-edit dynamic programming]
     * [String neighborhoods]
 * Sequence assembly
     * [Suffix-prefix matches]
@@ -60,7 +60,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Edit distance]: http://nbviewer.ipython.org/6894694
 [Global alignment]: http://nbviewer.ipython.org/6895625
 [Local alignment]: http://nbviewer.ipython.org/6994170
-[k-edit dynamic programming]: http://nbviewer.ipython.org/7011945
+[Index-assisted k-edit dynamic programming]: http://nbviewer.ipython.org/7011945
 [String neighborhoods]: http://nbviewer.ipython.org/7012233
 [Suffix-prefix matches]: http://nbviewer.ipython.org/7089885
 [De Bruijn graph]: http://nbviewer.ipython.org/7237207
@@ -111,6 +111,7 @@ TODO
 
 * Add FM Index notebook
 * Add co-traversal notebook
+* Add k-edit dynamic programming (no index) notebook
 
 Contributors
 ------------
