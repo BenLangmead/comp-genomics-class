@@ -28,6 +28,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Suffix array and LCPs from Suffix tree]
     * [Burrows-Wheeler Transform]
     * [Reversing BWT]
+    * [FM Index]
 * Pairwise sequence alignment
     * [Edit distance]
     * [Global alignment]
@@ -57,6 +58,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Suffix array and LCPs from Suffix tree]: http://nbviewer.ipython.org/6796858
 [Burrows-Wheeler Transform]: http://nbviewer.ipython.org/6798379
 [Reversing BWT]: http://nbviewer.ipython.org/6860491
+[FM Index]: http://nbviewer.ipython.org/7437031
 [Edit distance]: http://nbviewer.ipython.org/6894694
 [Global alignment]: http://nbviewer.ipython.org/6895625
 [Local alignment]: http://nbviewer.ipython.org/6994170
@@ -112,7 +114,6 @@ If you are taking my class and you have any trouble accessing these resources, p
 TODO
 ----
 
-* Add FM Index notebook
 * Add co-traversal notebook
 * Add k-edit dynamic programming (no index) notebook
 
