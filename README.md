@@ -100,6 +100,9 @@ If you are taking my class and you have any trouble accessing these resources, p
     * Demo of [pairwise sequence alignment](http://www.cs.umd.edu/class/fall2011/cmsc423/demos/align.html)
     * Presentation describing [1st, 2nd and 3rd generation sequencing](http://www.youtube.com/watch?v=_ApDinCBt8g) (with campy music)
         * Note: Helicos is defunct, and Roche 454 and Life Tech SOLiD technologies are not very popular any more
+* Notebooks
+    * [Solutions to Traveling Salesman Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb) by Peter Norvig
+    * [Write a Genome Assembler](http://nbviewer.ipython.org/urls/raw.github.com/cschin/Write_A_Genome_Assembler_With_IPython/master/Write_An_Assembler.ipynb) by Jason Chin
 * Recorded lectures
     * [Suffix tries and suffix trees](http://www.youtube.com/watch?v=hLsrPsFHPcQ)
 
