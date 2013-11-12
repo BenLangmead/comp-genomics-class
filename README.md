@@ -1,5 +1,5 @@
-comp-genomics-class
-===================
+Computational Genomics
+======================
 
 Code and examples for JHU Computational Genomics class.  Please feel free to submit [issues].
 
