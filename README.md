@@ -1,7 +1,9 @@
 comp-genomics-class
 ===================
 
-Code and examples for JHU Computational Genomics class
+Code and examples for JHU Computational Genomics class.  Please feel free to submit [issues].
+
+[issues]: https://github.com/BenLangmead/comp-genomics-class/issues
 
 Notebooks
 ---------
@@ -61,3 +63,10 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Markov chains]: http://nbviewer.ipython.org/7413873
 
 These are for teaching purposes.  They are certainly not meant to be efficient.
+
+Contributors
+------------
+
+* [Ben Langmead]
+
+[Ben Langmead]: http://www.cs.jhu.edu/~langmea/index.shtml
