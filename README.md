@@ -52,10 +52,12 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Reversing BWT]: http://nbviewer.ipython.org/6860491
 [Edit distance]: http://nbviewer.ipython.org/6894694
 [Global alignment]: http://nbviewer.ipython.org/6895625
-[Lobal alignment]: http://nbviewer.ipython.org/6994170
+[Local alignment]: http://nbviewer.ipython.org/6994170
 [k-edit dynamic programming]: http://nbviewer.ipython.org/7011945
 [String neighborhoods]: http://nbviewer.ipython.org/7012233
 [Suffix-prefix matches]: http://nbviewer.ipython.org/7089885
 [De Bruijn graph]: http://nbviewer.ipython.org/7237207
 [Error correction]: http://nbviewer.ipython.org/7339417
 [Markov chains]: http://nbviewer.ipython.org/7413873
+
+These are for teaching purposes.  They are certainly not meant to be efficient.
