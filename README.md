@@ -36,7 +36,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [String neighborhoods]
 * Sequence assembly
     * [Suffix-prefix matches]
-    * [De Bruijn Graph]
+    * [De Bruijn graph]
     * [Error correction]
 * Sequence classification
     * [Markov chains]
