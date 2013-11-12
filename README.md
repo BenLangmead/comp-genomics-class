@@ -35,6 +35,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Local alignment]
     * [Index-assisted k-edit dynamic programming]
     * [String neighborhoods]
+    * [Co-traversal]
 * Sequence assembly
     * [Suffix-prefix matches]
     * [De Bruijn graph]
@@ -64,6 +65,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Local alignment]: http://nbviewer.ipython.org/6994170
 [Index-assisted k-edit dynamic programming]: http://nbviewer.ipython.org/7011945
 [String neighborhoods]: http://nbviewer.ipython.org/7012233
+[Co-traversal]: http://nbviewer.ipython.org/7438200
 [Suffix-prefix matches]: http://nbviewer.ipython.org/7089885
 [De Bruijn graph]: http://nbviewer.ipython.org/7237207
 [Error correction]: http://nbviewer.ipython.org/7339417
@@ -114,7 +116,6 @@ If you are taking my class and you have any trouble accessing these resources, p
 TODO
 ----
 
-* Add co-traversal notebook
 * Add k-edit dynamic programming (no index) notebook
 
 Contributors
