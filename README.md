@@ -11,7 +11,7 @@ Notebooks
 The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view readable versions of them at the following URLs:
 
 * Exact and approximate matching
-    * [Strings]
+    * [Strings](http://nbviewer.ipython.org/6512698)
     * [Naive exact matching]
     * [Boyer-Moore]
     * [Inverted indexing 1]
@@ -24,7 +24,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Suffix tree]
     * [Python binary search]
     * [Suffix array binary search]
-    * [LCPs]
+    * [Longest common prefix (LCP)](http://nbviewer.ipython.org/6783863)
     * [Suffix array and LCPs from Suffix tree]
     * [Burrows-Wheeler Transform]
     * [Reversing BWT]
@@ -32,6 +32,8 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 * Pairwise sequence alignment
     * [Edit distance]
     * [Global alignment]
+    * [Longest common subsequence (LCS)](http://nbviewer.ipython.org/7452174)
+    * [k-edit alignment (approximate matching)](http://nbviewer.ipython.org/7452696)
     * [Local alignment]
     * [Index-assisted k-edit dynamic programming]
     * [String neighborhoods]
@@ -43,7 +45,6 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 * Sequence classification
     * [Markov chains]
 
-[Strings]: http://nbviewer.ipython.org/6512698
 [Naive exact matching]: http://nbviewer.ipython.org/6513059
 [Inverted indexing 1]: http://nbviewer.ipython.org/6582444
 [Inverted indexing 2]: http://nbviewer.ipython.org/6584538
@@ -55,7 +56,6 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Suffix tree]: http://nbviewer.ipython.org/6665861
 [Python binary search]: http://nbviewer.ipython.org/6603756
 [Suffix array binary search]: http://nbviewer.ipython.org/6765182
-[LCPs]: http://nbviewer.ipython.org/6783863
 [Suffix array and LCPs from Suffix tree]: http://nbviewer.ipython.org/6796858
 [Burrows-Wheeler Transform]: http://nbviewer.ipython.org/6798379
 [Reversing BWT]: http://nbviewer.ipython.org/6860491
@@ -105,9 +105,12 @@ If you are taking my class and you have any trouble accessing these resources, p
     * Presentation describing [1st, 2nd and 3rd generation sequencing](http://www.youtube.com/watch?v=_ApDinCBt8g) (with campy music)
         * Note: Helicos is defunct, and Roche 454 and Life Tech SOLiD technologies are not very popular any more
 * Notebooks
-    * [Solutions to Traveling Salesman Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb) by Peter Norvig
+    * [Traveling Salesman Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb) by Peter Norvig
     * [Write a Genome Assembler](http://nbviewer.ipython.org/urls/raw.github.com/cschin/Write_A_Genome_Assembler_With_IPython/master/Write_An_Assembler.ipynb) by Jason Chin
-* Recorded lectures
+* Textbooks and lecture notes for other classes
+    * [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms/) by Vazirani et al
+        * Check out the first two chapters if you need some analysis review, and check out the chapter on [dynamic programming](http://www.cs.berkeley.edu/~vazirani/algorithms/chap6.pdf).
+* Recorded lectures for this class
     * [Suffix tries and suffix trees](http://www.youtube.com/watch?v=hLsrPsFHPcQ)
 
 [Bowtie]: http://bowtie-bio.sourceforge.net/index.shtml
@@ -116,7 +119,7 @@ If you are taking my class and you have any trouble accessing these resources, p
 TODO
 ----
 
-* Add k-edit dynamic programming (no index) notebook
+* Add HMM notebook
 
 Contributors
 ------------
