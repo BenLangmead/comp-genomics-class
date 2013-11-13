@@ -104,9 +104,12 @@ If you are taking my class and you have any trouble accessing these resources, p
     * Presentation describing [1st, 2nd and 3rd generation sequencing](http://www.youtube.com/watch?v=_ApDinCBt8g) (with campy music)
         * Note: Helicos is defunct, and Roche 454 and Life Tech SOLiD technologies are not very popular any more
 * Notebooks
-    * [Solutions to Traveling Salesman Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb) by Peter Norvig
+    * [Traveling Salesman Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb) by Peter Norvig
     * [Write a Genome Assembler](http://nbviewer.ipython.org/urls/raw.github.com/cschin/Write_A_Genome_Assembler_With_IPython/master/Write_An_Assembler.ipynb) by Jason Chin
-* Recorded lectures
+* Textbooks and lecture notes for other classes
+    * [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms/) by Vazirani et al
+        * Check out the first two chapters if you need some analysis review, and check out the chapter on [dynamic programming](http://www.cs.berkeley.edu/~vazirani/algorithms/chap6.pdf).
+* Recorded lectures for this class
     * [Suffix tries and suffix trees](http://www.youtube.com/watch?v=hLsrPsFHPcQ)
 
 [Bowtie]: http://bowtie-bio.sourceforge.net/index.shtml
