@@ -11,7 +11,7 @@ Notebooks
 The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view readable versions of them at the following URLs:
 
 * Exact and approximate matching
-    * [Strings]
+    * [Strings](http://nbviewer.ipython.org/6512698)
     * [Naive exact matching]
     * [Boyer-Moore]
     * [Inverted indexing 1]
@@ -24,7 +24,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Suffix tree]
     * [Python binary search]
     * [Suffix array binary search]
-    * [LCPs]
+    * [Longest common prefix (LCP)](http://nbviewer.ipython.org/6783863)
     * [Suffix array and LCPs from Suffix tree]
     * [Burrows-Wheeler Transform]
     * [Reversing BWT]
@@ -32,6 +32,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 * Pairwise sequence alignment
     * [Edit distance]
     * [Global alignment]
+    * [Longest common subsequence (LCS)](http://nbviewer.ipython.org/7452174)
     * [Local alignment]
     * [Index-assisted k-edit dynamic programming]
     * [String neighborhoods]
@@ -43,7 +44,6 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 * Sequence classification
     * [Markov chains]
 
-[Strings]: http://nbviewer.ipython.org/6512698
 [Naive exact matching]: http://nbviewer.ipython.org/6513059
 [Inverted indexing 1]: http://nbviewer.ipython.org/6582444
 [Inverted indexing 2]: http://nbviewer.ipython.org/6584538
@@ -55,7 +55,6 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Suffix tree]: http://nbviewer.ipython.org/6665861
 [Python binary search]: http://nbviewer.ipython.org/6603756
 [Suffix array binary search]: http://nbviewer.ipython.org/6765182
-[LCPs]: http://nbviewer.ipython.org/6783863
 [Suffix array and LCPs from Suffix tree]: http://nbviewer.ipython.org/6796858
 [Burrows-Wheeler Transform]: http://nbviewer.ipython.org/6798379
 [Reversing BWT]: http://nbviewer.ipython.org/6860491
