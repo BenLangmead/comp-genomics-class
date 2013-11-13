@@ -33,6 +33,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Edit distance]
     * [Global alignment]
     * [Longest common subsequence (LCS)](http://nbviewer.ipython.org/7452174)
+    * [k-edit alignment (approximate matching)](http://nbviewer.ipython.org/7452696)
     * [Local alignment]
     * [Index-assisted k-edit dynamic programming]
     * [String neighborhoods]
@@ -118,7 +119,7 @@ If you are taking my class and you have any trouble accessing these resources, p
 TODO
 ----
 
-* Add k-edit dynamic programming (no index) notebook
+* Add HMM notebook
 
 Contributors
 ------------
