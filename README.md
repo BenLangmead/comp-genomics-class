@@ -12,36 +12,36 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 
 * Exact and approximate matching
     * [Strings](http://nbviewer.ipython.org/6512698)
-    * [Naive exact matching]
-    * [Boyer-Moore]
-    * [Inverted indexing 1]
-    * [Inverted indexing 2]
-    * [Inverted indexing 3]
-    * [Naive approximate matching]
+    * [Naive exact matching](http://nbviewer.ipython.org/6513059)
+    * [Boyer-Moore](http://nbviewer.ipython.org/6603340)
+    * [Inverted indexing 1](http://nbviewer.ipython.org/6582444)
+    * [Inverted indexing 2](http://nbviewer.ipython.org/6584538)
+    * [Inverted indexing 3](http://nbviewer.ipython.org/6582836)
+    * [Naive approximate matching](http://nbviewer.ipython.org/6603391)
 * Suffix indexes
-    * [Trie map]
-    * [Suffix trie]
-    * [Suffix tree]
-    * [Python binary search]
-    * [Suffix array binary search]
+    * [Trie map](http://nbviewer.ipython.org/6603619)
+    * [Suffix trie](http://nbviewer.ipython.org/6603756)
+    * [Suffix tree](http://nbviewer.ipython.org/6665861)
+    * [Python binary search](http://nbviewer.ipython.org/6603756)
+    * [Suffix array binary search](http://nbviewer.ipython.org/6765182)
     * [Longest common prefix (LCP)](http://nbviewer.ipython.org/6783863)
-    * [Suffix array and LCPs from Suffix tree]
-    * [Burrows-Wheeler Transform]
-    * [Reversing BWT]
-    * [FM Index]
+    * [Suffix array and LCPs from Suffix tree](http://nbviewer.ipython.org/6796858)
+    * [Burrows-Wheeler Transform](http://nbviewer.ipython.org/6798379)
+    * [Reversing BWT](http://nbviewer.ipython.org/6860491)
+    * [FM Index](http://nbviewer.ipython.org/7437031)
 * Pairwise sequence alignment
-    * [Edit distance]
-    * [Global alignment]
+    * [Edit distance](http://nbviewer.ipython.org/6894694)
+    * [Global alignment](http://nbviewer.ipython.org/6895625)
     * [Longest common subsequence (LCS)](http://nbviewer.ipython.org/7452174)
     * [k-edit alignment (approximate matching)](http://nbviewer.ipython.org/7452696)
-    * [Local alignment]
-    * [Index-assisted k-edit dynamic programming]
-    * [String neighborhoods]
-    * [Co-traversal]
+    * [Local alignment](http://nbviewer.ipython.org/6994170)
+    * [Index-assisted k-edit dynamic programming](http://nbviewer.ipython.org/7011945)
+    * [String neighborhoods](http://nbviewer.ipython.org/7012233)
+    * [Co-traversal](http://nbviewer.ipython.org/7438200)
 * Sequence assembly
-    * [Suffix-prefix matches]
-    * [De Bruijn graph]
-    * [Error correction]
+    * [Suffix-prefix matches](http://nbviewer.ipython.org/7089885)
+    * [De Bruijn graph](http://nbviewer.ipython.org/7237207)
+    * [Error correction](http://nbviewer.ipython.org/7339417)
 * Sequence classification
     * [Markov chain](http://nbviewer.ipython.org/7413873)
     * [Higher order Markov chain](http://nbviewer.ipython.org/7468937)
@@ -51,31 +51,6 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 * RNA sequencing analysis
     * Spliced alignment
     * Isoforms from minimum path cover
-
-[Naive exact matching]: http://nbviewer.ipython.org/6513059
-[Inverted indexing 1]: http://nbviewer.ipython.org/6582444
-[Inverted indexing 2]: http://nbviewer.ipython.org/6584538
-[Inverted indexing 3]: http://nbviewer.ipython.org/6582836
-[Naive approximate matching]: http://nbviewer.ipython.org/6603391
-[Boyer-Moore]: http://nbviewer.ipython.org/6603340
-[Trie map]: http://nbviewer.ipython.org/6603619
-[Suffix trie]: http://nbviewer.ipython.org/6603756
-[Suffix tree]: http://nbviewer.ipython.org/6665861
-[Python binary search]: http://nbviewer.ipython.org/6603756
-[Suffix array binary search]: http://nbviewer.ipython.org/6765182
-[Suffix array and LCPs from Suffix tree]: http://nbviewer.ipython.org/6796858
-[Burrows-Wheeler Transform]: http://nbviewer.ipython.org/6798379
-[Reversing BWT]: http://nbviewer.ipython.org/6860491
-[FM Index]: http://nbviewer.ipython.org/7437031
-[Edit distance]: http://nbviewer.ipython.org/6894694
-[Global alignment]: http://nbviewer.ipython.org/6895625
-[Local alignment]: http://nbviewer.ipython.org/6994170
-[Index-assisted k-edit dynamic programming]: http://nbviewer.ipython.org/7011945
-[String neighborhoods]: http://nbviewer.ipython.org/7012233
-[Co-traversal]: http://nbviewer.ipython.org/7438200
-[Suffix-prefix matches]: http://nbviewer.ipython.org/7089885
-[De Bruijn graph]: http://nbviewer.ipython.org/7237207
-[Error correction]: http://nbviewer.ipython.org/7339417
 
 These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
 
