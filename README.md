@@ -47,6 +47,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Higher order Markov chain](http://nbviewer.ipython.org/7468937)
     * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/7460513)
     * Higher-order HMM
+    * Pair HMMs
 * RNA sequencing analysis
     * Spliced alignment
     * Isoforms from minimum path cover
@@ -127,6 +128,7 @@ TODO
 * Add Higher-order HMM notebook
 * Add spliced alignment notebook
 * Add notebook for Isoforms from minimum path cover
+* Add notebook for pair HMMs
 
 Contributors
 ------------
