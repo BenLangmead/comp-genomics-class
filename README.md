@@ -43,8 +43,9 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [De Bruijn graph]
     * [Error correction]
 * Sequence classification
-    * [Markov chains](http://nbviewer.ipython.org/7413873)
-    * [Hidden Markov Model](http://nbviewer.ipython.org/7460513)
+    * [Markov chain](http://nbviewer.ipython.org/7413873)
+    * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/7460513)
+    * Higher-order HMM
 
 [Naive exact matching]: http://nbviewer.ipython.org/6513059
 [Inverted indexing 1]: http://nbviewer.ipython.org/6582444
@@ -119,7 +120,7 @@ If you are taking my class and you have any trouble accessing these resources, p
 TODO
 ----
 
-* Add HMM notebook
+* Add Higher-order HMM notebook
 
 Contributors
 ------------
