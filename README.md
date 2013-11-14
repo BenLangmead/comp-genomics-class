@@ -13,7 +13,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 * Exact and approximate matching
     * [Strings](http://nbviewer.ipython.org/6512698)
     * [Naive exact matching](http://nbviewer.ipython.org/6513059)
-    * [Z algorithm (fundamental preprocessing)]
+    * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/7473392)
     * [Boyer-Moore]
     * [Inverted indexing 1](http://nbviewer.ipython.org/6582444)
     * [Inverted indexing 2](http://nbviewer.ipython.org/6584538)
@@ -102,7 +102,6 @@ If you are taking my class and you have any trouble accessing these resources, p
 TODO
 ----
 
-* Add Z algorithm notebook
 * Add Boyer-Moore notebook
 * Add Higher-order HMM notebook
 * Add spliced alignment notebook
