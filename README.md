@@ -43,7 +43,8 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [De Bruijn graph]
     * [Error correction]
 * Sequence classification
-    * [Markov chains]
+    * [Markov chains](http://nbviewer.ipython.org/7413873)
+    * [Hidden Markov Model](http://nbviewer.ipython.org/7460513)
 
 [Naive exact matching]: http://nbviewer.ipython.org/6513059
 [Inverted indexing 1]: http://nbviewer.ipython.org/6582444
@@ -69,7 +70,6 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 [Suffix-prefix matches]: http://nbviewer.ipython.org/7089885
 [De Bruijn graph]: http://nbviewer.ipython.org/7237207
 [Error correction]: http://nbviewer.ipython.org/7339417
-[Markov chains]: http://nbviewer.ipython.org/7413873
 
 These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
 
