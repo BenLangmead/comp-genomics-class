@@ -11,13 +11,13 @@ as a good place to grab these.
 
 Here are some shortcuts for some commonly used reference sequences:
 
-* [Whole human Genome, GRCh37](ftp://ftp.ensembl.org/pub/release-73/fasta/homo_sapiens/dna/Homo_sapiens.GRCh37.73.dna.toplevel.fa.gz)
-* [Just human chromosome 22, GRCh37](ftp://ftp.ensembl.org/pub/release-73/fasta/homo_sapiens/dna/Homo_sapiens.GRCh37.73.dna.chromosome.22.fa.gz)
-* [Whole mouse Genome, GRCm38](ftp://ftp.ensembl.org/pub/release-73/fasta/mus_musculus/dna/Mus_musculus.GRCm38.73.dna.toplevel.fa.gz)
-* [Just mouse chromosome 19, GRCm38](ftp://ftp.ensembl.org/pub/release-73/fasta/mus_musculus/dna/Mus_musculus.GRCm38.73.dna.chromosome.19.fa.gz)
-* [Whole fruitfly Genome, BDGP5](ftp://ftp.ensembl.org/pub/release-73/fasta/drosophila_melanogaster/dna/Drosophila_melanogaster.BDGP5.73.dna.toplevel.fa.gz)
-* [Whole roundworm Genome, WBcel235](ftp://ftp.ensembl.org/pub/release-73/fasta/caenorhabditis_elegans/dna/Caenorhabditis_elegans.WBcel235.73.dna.toplevel.fa.gz)
-* [Whole yeast Genome, EF4](ftp://ftp.ensembl.org/pub/release-73/fasta/saccharomyces_cerevisiae/dna/Saccharomyces_cerevisiae.EF4.73.dna.toplevel.fa.gz)
+* [Whole human Genome, GRCh37](ftp://ftp.ensembl.org/pub/release-73/fasta/homo_sapiens/dna/Homo_sapiens.GRCh37.73.dna.toplevel.fa.gz) (~ 3.1 billion nt)
+* [Just human chromosome 22, GRCh37](ftp://ftp.ensembl.org/pub/release-73/fasta/homo_sapiens/dna/Homo_sapiens.GRCh37.73.dna.chromosome.22.fa.gz) (~ 50 million nt)
+* [Whole mouse Genome, GRCm38](ftp://ftp.ensembl.org/pub/release-73/fasta/mus_musculus/dna/Mus_musculus.GRCm38.73.dna.toplevel.fa.gz) (~ 2.7 billion nt)
+* [Just mouse chromosome 19, GRCm38](ftp://ftp.ensembl.org/pub/release-73/fasta/mus_musculus/dna/Mus_musculus.GRCm38.73.dna.chromosome.19.fa.gz) (~ 60 million nt)
+* [Whole fruitfly Genome, BDGP5](ftp://ftp.ensembl.org/pub/release-73/fasta/drosophila_melanogaster/dna/Drosophila_melanogaster.BDGP5.73.dna.toplevel.fa.gz) (~170 million nt)
+* [Whole roundworm Genome, WBcel235](ftp://ftp.ensembl.org/pub/release-73/fasta/caenorhabditis_elegans/dna/Caenorhabditis_elegans.WBcel235.73.dna.toplevel.fa.gz) (~100 million nt)
+* [Whole yeast Genome, EF4](ftp://ftp.ensembl.org/pub/release-73/fasta/saccharomyces_cerevisiae/dna/Saccharomyces_cerevisiae.EF4.73.dna.toplevel.fa.gz) (~12 million nt)
 
 Referenge genomes are long.
 If you are working on a project that involves a non-trivial computation
