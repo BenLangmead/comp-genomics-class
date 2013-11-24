@@ -25,6 +25,13 @@ over a reference genome (e.g. building an index or a large summary), you
 might start with a small genome, or just a single chromosome of a larger
 genome, then work your way up to longer strings.
 
+Also, not that reference genomes, especially the longer ones, can contain
+characters besides A, C, G and T.  Often, this will be an N.  These Ns
+are placeholders; i.e. if there is a gap of known length between two
+contigs, they may be "joined" with an appropriate-length stretch of Ns
+between them.  Besides Ns, you may also see dashes (`-`) as well as other
+[IUPAC nucleotide codes](http://www.bioinformatics.org/sms/iupac.html).
+
 Sequencing reads
 ----------------
 
