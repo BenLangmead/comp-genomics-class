@@ -47,9 +47,16 @@ simple piece of software to extract substrings from the genome.
 * [Mason](http://www.seqan.de/projects/mason/)
 * [wgsim](https://github.com/lh3/wgsim)
 
-### Where to get real-world data
+### Where to get real-world reads
 
 A good place to browse for real-world sequencing reads relevant to your project is the
 [European Nucleotide Archive (ENA)](http://www.ebi.ac.uk/ena/).  Note that
 most of the files there are big, so you might want to use tools like `curl`,
 `gzip -dc` and `head` to avoid downloading entire files.
+
+Output data from the [1000 Genomes Project] is hosted on [Simple Storage Service (S3)]
+(part of [Amazon Web Services (AWS)]).  See [this page](http://aws.amazon.com/1000genomes/).
+
+[1000 Genomes Project]: http://www.1000genomes.org
+[Simple Storage Service (S3)]: http://aws.amazon.com/s3/
+[Amazon Web Services (AWS)]: http://aws.amazon.com
