@@ -1,11 +1,11 @@
 A guide for students looking for datasets they can use for their final project.
 
 Reference genomes
-=================
+-----------------
 
-Already-assembled genomes for various species.  I recommend [UCSC] as the place to grab these.
+Already-assembled genomes for various species.  I recommend [Ensembl] as a good place to grab these.
 
-[UCSC]: http://hgdownload.soe.ucsc.edu/downloads.html
+[Ensembl]: http://useast.ensembl.org/index.html
 
 Here are some shortcuts for some commonly used reference sequences:
 
@@ -18,24 +18,21 @@ Here are some shortcuts for some commonly used reference sequences:
 * [Whole yeast Genome, EF4](ftp://ftp.ensembl.org/pub/release-73/fasta/saccharomyces_cerevisiae/dna/Saccharomyces_cerevisiae.EF4.73.dna.toplevel.fa.gz)
 
 Sequencing reads
-================
+----------------
 
-Simulated versus real-world
----------------------------
+### Simulated versus real-world
 
 Sometimes the most expediant way to get DNA sequences to test your software is to
 generate them yourself.  E.g. if you would like some sequencing reads derived from
 the fruitfly genome, you can download the whole fruitfly genome in compressed FASTA format, then run a very
 simple piece of software to extract substrings from the genome.
 
-Software for simulating sequence reads
---------------------------------------
+### Software for simulating sequence reads
 
 * [Mason](http://www.seqan.de/projects/mason/)
 * [wgsim](https://github.com/lh3/wgsim)
 
-Where to get real-world data
-----------------------------
+### Where to get real-world data
 
 A good place to browse for real-world sequencing reads relevant to your project is the
 [European Nucleotide Archive (ENA)](http://www.ebi.ac.uk/ena/).  Note that
