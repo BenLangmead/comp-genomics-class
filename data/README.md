@@ -20,3 +20,7 @@ Here are some shortcuts for some commonly used reference sequences:
 Sequencing reads
 ================
 
+A good place to browse for sequencing reads relevant to your project is the
+[European Nucleotide Archive (ENA)](http://www.ebi.ac.uk/ena/).  Note that
+most of the files there are big, so you might want to use tools like `curl`,
+`gzip -dc` and `head` to avoid downloading entire files.
