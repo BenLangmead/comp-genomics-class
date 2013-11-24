@@ -3,7 +3,9 @@ A guide for students looking for datasets they can use for their final project.
 Reference genomes
 -----------------
 
-Already-assembled genomes for various species.  I recommend [Ensembl] as a good place to grab these.
+You can download already-assembled "reference" genomes for many species,
+including all of the most-studied "model" species.  I recommend [Ensembl]
+as a good place to grab these.
 
 [Ensembl]: http://useast.ensembl.org/index.html
 
@@ -16,6 +18,12 @@ Here are some shortcuts for some commonly used reference sequences:
 * [Whole fruitfly Genome, BDGP5](ftp://ftp.ensembl.org/pub/release-73/fasta/drosophila_melanogaster/dna/Drosophila_melanogaster.BDGP5.73.dna.toplevel.fa.gz)
 * [Whole roundworm Genome, WBcel235](ftp://ftp.ensembl.org/pub/release-73/fasta/caenorhabditis_elegans/dna/Caenorhabditis_elegans.WBcel235.73.dna.toplevel.fa.gz)
 * [Whole yeast Genome, EF4](ftp://ftp.ensembl.org/pub/release-73/fasta/saccharomyces_cerevisiae/dna/Saccharomyces_cerevisiae.EF4.73.dna.toplevel.fa.gz)
+
+Referenge genomes are long.
+If you are working on a project that involves a non-trivial computation
+over a reference genome (e.g. building an index or a large summary), you
+might start with a small genome, or just a single chromosome of a larger
+genome, then work your way up to longer strings.
 
 Sequencing reads
 ----------------
