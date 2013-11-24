@@ -1,4 +1,9 @@
 A guide for students looking for datasets they can use for their final project.
+Feel free to email me if you have a very specific need not addressed here.  When
+you email me, please be as specific as possible about what sequences you're
+looking for and why.
+
+Also, please share anything new you learn with your classmates via Piazza.
 
 Reference genomes
 -----------------
