@@ -20,7 +20,24 @@ Here are some shortcuts for some commonly used reference sequences:
 Sequencing reads
 ================
 
-A good place to browse for sequencing reads relevant to your project is the
+Simulated versus real-world
+---------------------------
+
+Sometimes the most expediant way to get DNA sequences to test your software is to
+generate them yourself.  E.g. if you would like some sequencing reads derived from
+the fruitfly genome, you can download the whole fruitfly genome in compressed FASTA format, then run a very
+simple piece of software to extract substrings from the genome.
+
+Software for simulating sequence reads
+--------------------------------------
+
+* [Mason](http://www.seqan.de/projects/mason/)
+* [wgsim](https://github.com/lh3/wgsim)
+
+Where to get real-world data
+----------------------------
+
+A good place to browse for real-world sequencing reads relevant to your project is the
 [European Nucleotide Archive (ENA)](http://www.ebi.ac.uk/ena/).  Note that
 most of the files there are big, so you might want to use tools like `curl`,
 `gzip -dc` and `head` to avoid downloading entire files.
