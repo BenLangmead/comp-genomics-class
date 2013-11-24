@@ -55,7 +55,7 @@ most of the files there are big, so you might want to use tools like `curl`,
 `gzip -dc` and `head` to avoid downloading entire files.
 
 Output data from the [1000 Genomes Project] is hosted on [Simple Storage Service (S3)]
-(part of [Amazon Web Services (AWS)].  See [this page](http://aws.amazon.com/1000genomes/).
+, part of [Amazon Web Services (AWS)].  See [this page](http://aws.amazon.com/1000genomes/).
 
 [1000 Genomes Project]: http://www.1000genomes.org
 [Simple Storage Service (S3)]: http://aws.amazon.com/s3/
