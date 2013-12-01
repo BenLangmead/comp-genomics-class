@@ -59,12 +59,16 @@ A good place to browse for real-world sequencing reads relevant to your project 
 most of the files there are big, so you might want to use tools like `curl`,
 `gzip -dc` and `head` to avoid downloading entire files.
 
-Output data from the [1000 Genomes Project] is hosted on [Simple Storage Service (S3)]
-, part of [Amazon Web Services (AWS)].  See [this page](http://aws.amazon.com/1000genomes/).
+The [1000 Genomes Project] is a great source of DNA sequencing reads derived from
+humans.  The read files, in the form of [gzip]'ed [FASTQ] files, are available on the
+[project's FTP server].  Here's a link to one such file (it's 2 gigabytes compressed!):
 
+* [SRR062634_1.filt.fastq.gz](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data/HG00096/sequence_read/SRR062634_1.filt.fastq.gz)
+
+[gzip]: http://en.wikipedia.org/wiki/Gzip
+[FASTQ]: http://en.wikipedia.org/wiki/FASTQ_format
 [1000 Genomes Project]: http://www.1000genomes.org
-[Simple Storage Service (S3)]: http://aws.amazon.com/s3/
-[Amazon Web Services (AWS)]: http://aws.amazon.com
+[project's FTP server]: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data
 
 Protein sequences
 -----------------
