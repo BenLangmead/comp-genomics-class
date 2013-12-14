@@ -76,6 +76,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * PBS Documentary "DNA" (getting old, but still very good)
         * Part 1 of 5: [The Secret of Life](http://www.youtube.com/watch?v=d7ET4bbkTm0)
         * Part 3 of 5: [The Human Race](http://www.youtube.com/watch?v=kpoziqXldJM)
+    * Video describing how Illumina's [sequencing-by-synthesis](http://www.youtube.com/watch?v=l99aKKHcxC4) technology works
     * Animation of [how one "3rd-generation" sequencer works](http://www.youtube.com/watch?v=NHCJ8PtYCFc)
     * Many cool animations of [biological phenomena](http://www.johnkyrk.com/) by John Kyrk
     * Demo of [pairwise sequence alignment](http://www.cs.umd.edu/class/fall2011/cmsc423/demos/align.html)
