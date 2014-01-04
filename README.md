@@ -12,7 +12,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
 
 * Exact and approximate matching
     * [Strings](http://nbviewer.ipython.org/6512698)
-    * [Naive exact matching](http://nbviewer.ipython.org/6513059)
+    * [Naive exact matching](http://nbviewer.ipython.org/8258880)
     * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/7473392)
     * [Inverted indexing 1](http://nbviewer.ipython.org/6582444)
     * [Inverted indexing 2](http://nbviewer.ipython.org/6584538)
