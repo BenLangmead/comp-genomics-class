@@ -14,7 +14,6 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Strings](http://nbviewer.ipython.org/6512698)
     * [Naive exact matching](http://nbviewer.ipython.org/6513059)
     * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/7473392)
-    * [Boyer-Moore]
     * [Inverted indexing 1](http://nbviewer.ipython.org/6582444)
     * [Inverted indexing 2](http://nbviewer.ipython.org/6584538)
     * [Inverted indexing 3](http://nbviewer.ipython.org/6582836)
@@ -48,11 +47,6 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Markov chain](http://nbviewer.ipython.org/7413873)
     * [Higher order Markov chain](http://nbviewer.ipython.org/7468937)
     * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/7460513)
-    * Higher-order HMM
-    * Pair HMMs
-* RNA sequencing analysis
-    * Spliced alignment
-    * Isoforms from minimum path cover
 
 These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
 
@@ -82,6 +76,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * PBS Documentary "DNA" (getting old, but still very good)
         * Part 1 of 5: [The Secret of Life](http://www.youtube.com/watch?v=d7ET4bbkTm0)
         * Part 3 of 5: [The Human Race](http://www.youtube.com/watch?v=kpoziqXldJM)
+    * Video describing how Illumina's [sequencing-by-synthesis](http://www.youtube.com/watch?v=l99aKKHcxC4) technology works
     * Animation of [how one "3rd-generation" sequencer works](http://www.youtube.com/watch?v=NHCJ8PtYCFc)
     * Many cool animations of [biological phenomena](http://www.johnkyrk.com/) by John Kyrk
     * Demo of [pairwise sequence alignment](http://www.cs.umd.edu/class/fall2011/cmsc423/demos/align.html)
@@ -99,14 +94,15 @@ If you are taking my class and you have any trouble accessing these resources, p
 [Bowtie]: http://bowtie-bio.sourceforge.net/index.shtml
 [BWA]: http://bio-bwa.sourceforge.net
 
-TODO
-----
+Possible notebook additions
+---------------------------
 
-* Add Boyer-Moore notebook
-* Add Higher-order HMM notebook
-* Add spliced alignment notebook
-* Add notebook for Isoforms from minimum path cover
-* Add notebook for pair HMMs
+* Boyer-Moore
+* Higher-order HMM
+* Spliced alignment
+* Minimum path cover on DAG to recover isoforms
+* Pair HMMs
+* Profile HMMs
 
 Contributors
 ------------
