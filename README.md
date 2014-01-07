@@ -47,6 +47,8 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Markov chain](http://nbviewer.ipython.org/7413873)
     * [Higher order Markov chain](http://nbviewer.ipython.org/7468937)
     * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/7460513)
+* File formats
+    * [FASTA](http://nbviewer.ipython.org/gist/BenLangmead/8307011)
 
 These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
 
