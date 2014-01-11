@@ -49,6 +49,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/7460513)
 * File formats
     * [FASTA](http://nbviewer.ipython.org/gist/BenLangmead/8307011)
+    * [FASTQ](http://nbviewer.ipython.org/gist/BenLangmead/8376306)
 
 These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
 
