@@ -56,7 +56,7 @@ These are for teaching purposes.  They are certainly not meant to be efficient. 
 Other class resources
 ---------------------
 
-If you are taking my class and you have any trouble accessing these resources, please contact me and I can help.  All of these articles should be easily accessible from the JHU campus or via VPN.
+If you are taking my class and you have any trouble accessing these resources, please contact me and I can help.  All of these articles should be easily accessible from the JHU campus or via [VPN](http://portalcontent.johnshopkins.edu/sslvpn/JHConnect-FAQ.html) / [library proxy](http://old.library.jhu.edu/services/computing/proxyfaqs.html).
 
 * Class readings
     * [Life and its Molecules](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1744) by Lawrence Hunter
