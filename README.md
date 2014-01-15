@@ -62,6 +62,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [Life and its Molecules](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1744) by Lawrence Hunter
     * [A decade's perspective on DNA sequencing technology](http://www.nature.com/nature/journal/v470/n7333/full/nature09796.html) by Elaine Mardis
     * [Sequencing technologies -- the next generation](http://www.nature.com/nrg/journal/v11/n1/full/nrg2626.html) by Michael Metzker
+    * [The DNA Data Deluge](http://spectrum.ieee.org/biomedical/devices/the-dna-data-deluge) by Michael Schatz and Ben Langmead
     * [Suffix arrays: a new method for on-line string searches](http://dl.acm.org/citation.cfm?id=320218) by Udi Manber and Gene Myers
     * [Introduction to the Burrows-Wheeler Transform and FM Index](http://www.cs.jhu.edu/~langmea/resources/bwt_fm.pdf) by Langmead
     * [Assembly of large genomes using second-generation sequencing](http://genome.cshlp.org/content/20/9/1165.long) by Mike Schatz et al
