@@ -5,8 +5,8 @@ Code and examples for JHU Computational Genomics class.  Please feel free to sub
 
 [issues]: https://github.com/BenLangmead/comp-genomics-class/issues
 
-Notebooks
----------
+Concept notebooks
+-----------------
 
 The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view readable versions of them at the following URLs:
 
@@ -47,11 +47,17 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Markov chain](http://nbviewer.ipython.org/7413873)
     * [Higher order Markov chain](http://nbviewer.ipython.org/7468937)
     * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/7460513)
+
+These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
+
+File format notebooks
+---------------------
+
+The following notebooks describe and explore some common file formats used to store genomics data.  They also include Python code for parsing (and sometimes indexing) the formats.
+
 * File formats
     * [FASTA](http://nbviewer.ipython.org/gist/BenLangmead/8307011)
     * [FASTQ](http://nbviewer.ipython.org/gist/BenLangmead/8376306)
-
-These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
 
 Other class resources
 ---------------------
