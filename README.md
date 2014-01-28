@@ -90,6 +90,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * Animation of [how one "3rd-generation" sequencer works](http://www.youtube.com/watch?v=NHCJ8PtYCFc)
     * Many cool animations of [biological phenomena](http://www.johnkyrk.com/) by John Kyrk
     * Demo of [pairwise sequence alignment](http://www.cs.umd.edu/class/fall2011/cmsc423/demos/align.html)
+    * [Next-Generation Sequencing Technologies](http://www.youtube.com/watch?v=PMIF6zUeKko&list=PLDf6yd9adZftalG4tSxBvSYJ-QQc1Cn6h), presentation by Elaine Mardis at NHGRI in 2012
     * Presentation describing [1st, 2nd and 3rd generation sequencing](http://www.youtube.com/watch?v=_ApDinCBt8g) (with campy music)
         * Note: Helicos is defunct, and Roche 454 and Life Tech SOLiD technologies are not very popular any more
 * Notebooks
