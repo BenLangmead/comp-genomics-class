@@ -93,6 +93,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [Next-Generation Sequencing Technologies](http://www.youtube.com/watch?v=PMIF6zUeKko&list=PLDf6yd9adZftalG4tSxBvSYJ-QQc1Cn6h), presentation by Elaine Mardis at NHGRI in 2012
     * Presentation describing [1st, 2nd and 3rd generation sequencing](http://www.youtube.com/watch?v=_ApDinCBt8g) (with campy music)
         * Note: Helicos is defunct, and Roche 454 and Life Tech SOLiD technologies are not very popular any more
+    * Videos on the [basics of Git and GitHub](http://www.dataschool.io/git-and-github-videos-for-beginners/)
 * Notebooks
     * [Traveling Salesman Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb) by Peter Norvig
     * [Write a Genome Assembler](http://nbviewer.ipython.org/urls/raw.github.com/cschin/Write_A_Genome_Assembler_With_IPython/master/Write_An_Assembler.ipynb) by Jason Chin
