@@ -10,7 +10,7 @@ Concept notebooks
 
 The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view readable versions of them at the following URLs:
 
-* Exact and approximate matching
+* Strings, exact and approximate matching, sorting
     * [Strings](http://nbviewer.ipython.org/6512698)
     * [Naive exact matching](http://nbviewer.ipython.org/8258880)
     * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/7473392)
@@ -19,6 +19,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Inverted indexing 3](http://nbviewer.ipython.org/6582836)
     * [Naive approximate matching](http://nbviewer.ipython.org/6603391)
     * [Index-assisted Boyer-Moore](http://nbviewer.ipython.org/6603340)
+    * [Radix sort](http://nbviewer.ipython.org/gist/BenLangmead/cf7f0ad2022a3f49c1bc)
 * Suffix indexes
     * [Trie map](http://nbviewer.ipython.org/6603619)
     * [Suffix trie](http://nbviewer.ipython.org/6603756)
