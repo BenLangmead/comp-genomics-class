@@ -5,12 +5,12 @@ Code and examples for JHU Computational Genomics class.  Please feel free to sub
 
 [issues]: https://github.com/BenLangmead/comp-genomics-class/issues
 
-Notebooks
----------
+Concept notebooks
+-----------------
 
 The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view readable versions of them at the following URLs:
 
-* Exact and approximate matching
+* Strings, exact and approximate matching, sorting
     * [Strings](http://nbviewer.ipython.org/6512698)
     * [Naive exact matching](http://nbviewer.ipython.org/8258880)
     * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/7473392)
@@ -19,6 +19,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Inverted indexing 3](http://nbviewer.ipython.org/6582836)
     * [Naive approximate matching](http://nbviewer.ipython.org/6603391)
     * [Index-assisted Boyer-Moore](http://nbviewer.ipython.org/6603340)
+    * [Radix sort](http://nbviewer.ipython.org/gist/BenLangmead/cf7f0ad2022a3f49c1bc)
 * Suffix indexes
     * [Trie map](http://nbviewer.ipython.org/6603619)
     * [Suffix trie](http://nbviewer.ipython.org/6603756)
@@ -47,20 +48,28 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Markov chain](http://nbviewer.ipython.org/7413873)
     * [Higher order Markov chain](http://nbviewer.ipython.org/7468937)
     * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/7460513)
-* File formats
-    * [FASTA](http://nbviewer.ipython.org/gist/BenLangmead/8307011)
 
 These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
+
+File format notebooks
+---------------------
+
+The following notebooks describe and explore some common file formats used to store genomics data.  They also include Python code for parsing (and sometimes indexing) the formats.
+
+* File formats
+    * [FASTA](http://nbviewer.ipython.org/gist/BenLangmead/8307011)
+    * [FASTQ](http://nbviewer.ipython.org/gist/BenLangmead/8376306)
 
 Other class resources
 ---------------------
 
-If you are taking my class and you have any trouble accessing these resources, please contact me and I can help.  All of these articles should be easily accessible from the JHU campus or via VPN.
+If you are taking my class and you have any trouble accessing these resources, please contact me and I can help.  All of these articles should be easily accessible from the JHU campus or via [VPN](http://portalcontent.johnshopkins.edu/sslvpn/JHConnect-FAQ.html) / [library proxy](http://old.library.jhu.edu/services/computing/proxyfaqs.html).
 
-* Class readings
+* Class readings (see syllabus for where these fit in)
     * [Life and its Molecules](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1744) by Lawrence Hunter
     * [A decade's perspective on DNA sequencing technology](http://www.nature.com/nature/journal/v470/n7333/full/nature09796.html) by Elaine Mardis
     * [Sequencing technologies -- the next generation](http://www.nature.com/nrg/journal/v11/n1/full/nrg2626.html) by Michael Metzker
+    * [The DNA Data Deluge](http://spectrum.ieee.org/biomedical/devices/the-dna-data-deluge) by Mike Schatz and Ben Langmead
     * [Suffix arrays: a new method for on-line string searches](http://dl.acm.org/citation.cfm?id=320218) by Udi Manber and Gene Myers
     * [Introduction to the Burrows-Wheeler Transform and FM Index](http://www.cs.jhu.edu/~langmea/resources/bwt_fm.pdf) by Langmead
     * [Assembly of large genomes using second-generation sequencing](http://genome.cshlp.org/content/20/9/1165.long) by Mike Schatz et al
@@ -82,8 +91,10 @@ If you are taking my class and you have any trouble accessing these resources, p
     * Animation of [how one "3rd-generation" sequencer works](http://www.youtube.com/watch?v=NHCJ8PtYCFc)
     * Many cool animations of [biological phenomena](http://www.johnkyrk.com/) by John Kyrk
     * Demo of [pairwise sequence alignment](http://www.cs.umd.edu/class/fall2011/cmsc423/demos/align.html)
+    * [Next-Generation Sequencing Technologies](http://www.youtube.com/watch?v=PMIF6zUeKko&list=PLDf6yd9adZftalG4tSxBvSYJ-QQc1Cn6h), presentation by Elaine Mardis at NHGRI in 2012
     * Presentation describing [1st, 2nd and 3rd generation sequencing](http://www.youtube.com/watch?v=_ApDinCBt8g) (with campy music)
         * Note: Helicos is defunct, and Roche 454 and Life Tech SOLiD technologies are not very popular any more
+    * Videos on the [basics of Git and GitHub](http://www.dataschool.io/git-and-github-videos-for-beginners/)
 * Notebooks
     * [Traveling Salesman Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb) by Peter Norvig
     * [Write a Genome Assembler](http://nbviewer.ipython.org/urls/raw.github.com/cschin/Write_A_Genome_Assembler_With_IPython/master/Write_An_Assembler.ipynb) by Jason Chin
