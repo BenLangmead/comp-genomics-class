@@ -11,13 +11,13 @@ Concept notebooks
 The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view readable versions of them at the following URLs:
 
 * Strings, exact and approximate matching, sorting
-    * [Strings](http://nbviewer.ipython.org/6512698)
-    * [Naive exact matching](http://nbviewer.ipython.org/8258880)
-    * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/7473392)
-    * [Inverted indexing 1](http://nbviewer.ipython.org/6582444)
-    * [Inverted indexing 2](http://nbviewer.ipython.org/6584538)
-    * [Inverted indexing 3](http://nbviewer.ipython.org/6582836)
-    * [Naive approximate matching](http://nbviewer.ipython.org/6603391)
+    * [Strings](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_StringBasics.ipynb)
+    * [Naive exact matching](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_Naive.ipynb)
+    * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_ZAlgorithm.ipynb)
+    * [Inverted indexing 1](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex1.ipynb)
+    * [Inverted indexing 2](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex2.ipynb)
+    * [Inverted indexing 3](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex3.ipynb)
+    * [Naive approximate matching](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_NaiveApprox.ipynb)
     * [Index-assisted Boyer-Moore](http://nbviewer.ipython.org/6603340)
     * [Radix sort](http://nbviewer.ipython.org/gist/BenLangmead/cf7f0ad2022a3f49c1bc)
 * Suffix indexes
@@ -57,8 +57,8 @@ File format notebooks
 The following notebooks describe and explore some common file formats used to store genomics data.  They also include Python code for parsing (and sometimes indexing) the formats.
 
 * File formats
-    * [FASTA](http://nbviewer.ipython.org/gist/BenLangmead/8307011)
-    * [FASTQ](http://nbviewer.ipython.org/gist/BenLangmead/8376306)
+    * [FASTA](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/FASTA.ipynb)
+    * [FASTQ](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/FASTQ.ipynb)
 
 Other class resources
 ---------------------
