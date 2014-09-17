@@ -16,7 +16,6 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_ZAlgorithm.ipynb)
     * [Inverted indexing 1](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex1.ipynb)
     * [Inverted indexing 2](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex2.ipynb)
-    * [Inverted indexing 3](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex3.ipynb)
     * [Naive approximate matching](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_NaiveApprox.ipynb)
     * [Index-assisted Boyer-Moore](http://nbviewer.ipython.org/6603340)
     * [Radix sort](http://nbviewer.ipython.org/gist/BenLangmead/cf7f0ad2022a3f49c1bc)
@@ -59,6 +58,7 @@ The following notebooks describe and explore some common file formats used to st
 * File formats
     * [FASTA](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/FASTA.ipynb)
     * [FASTQ](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/FASTQ.ipynb)
+    * [SAM](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/SAM.ipynb)
 
 Other class resources
 ---------------------
