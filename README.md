@@ -18,7 +18,7 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Inverted indexing 2](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex2.ipynb)
     * [Naive approximate matching](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_NaiveApprox.ipynb)
     * [Index-assisted Boyer-Moore](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BoyerMooreApprox.ipynb)
-    * [Radix sort](http://nbviewer.ipython.org/gist/BenLangmead/cf7f0ad2022a3f49c1bc)
+    * [Radix sort](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_Radix.ipynb)
 * Suffix indexes
     * [Trie map](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_TrieMap.ipynb)
     * [Suffix trie](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_SuffixTrie.ipynb)
@@ -31,22 +31,22 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Reversing BWT](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BWT_Reverse.ipynb)
     * [FM Index](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_FmIndex.ipynb)
 * Pairwise sequence alignment
-    * [Edit distance](http://nbviewer.ipython.org/6894694)
-    * [Global alignment](http://nbviewer.ipython.org/6895625)
-    * [Longest common subsequence (LCS)](http://nbviewer.ipython.org/7452174)
-    * [k-edit alignment (approximate matching)](http://nbviewer.ipython.org/7452696)
-    * [Local alignment](http://nbviewer.ipython.org/6994170)
-    * [Index-assisted k-edit dynamic programming](http://nbviewer.ipython.org/7011945)
-    * [String neighborhoods](http://nbviewer.ipython.org/7012233)
-    * [Co-traversal](http://nbviewer.ipython.org/7438200)
+    * [Edit distance](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_DP_EditDist.ipynb)
+    * [Global alignment](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_DP_Global.ipynb)
+    * [Longest common subsequence (LCS)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_LCS.ipynb)
+    * [k-edit alignment (approximate matching)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_kEditDp.ipynb)
+    * [Local alignment](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_DP_Local.ipynb)
+    * [Index-assisted k-edit dynamic programming](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_kEdit.ipynb)
+    * [String neighborhoods](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_Neighbors.ipynb)
+    * [Co-traversal](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_CoTraversal.ipynb)
 * Sequence assembly
-    * [Suffix-prefix matches](http://nbviewer.ipython.org/7089885)
-    * [De Bruijn graph](http://nbviewer.ipython.org/7237207)
-    * [Error correction](http://nbviewer.ipython.org/7339417)
+    * [Suffix-prefix matches](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_SuffixPrefix_1.ipynb)
+    * [De Bruijn graph](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_deBruijn.ipynb)
+    * [Error correction](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_ErrorCorrect.ipynb)
 * Sequence classification
-    * [Markov chain](http://nbviewer.ipython.org/7413873)
-    * [Higher order Markov chain](http://nbviewer.ipython.org/7468937)
-    * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/7460513)
+    * [Markov chain](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_MarkovChain.ipynb)
+    * [Higher order Markov chain](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_HighOrderMarkovChain.ipynb)
+    * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_HMM.ipynb)
 
 These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
 
