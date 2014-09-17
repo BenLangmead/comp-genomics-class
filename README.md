@@ -17,19 +17,19 @@ The `notebooks` subdirectory contains the raw JSON for the iPython notebooks ref
     * [Inverted indexing 1](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex1.ipynb)
     * [Inverted indexing 2](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex2.ipynb)
     * [Naive approximate matching](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_NaiveApprox.ipynb)
-    * [Index-assisted Boyer-Moore](http://nbviewer.ipython.org/6603340)
+    * [Index-assisted Boyer-Moore](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BoyerMooreApprox.ipynb)
     * [Radix sort](http://nbviewer.ipython.org/gist/BenLangmead/cf7f0ad2022a3f49c1bc)
 * Suffix indexes
-    * [Trie map](http://nbviewer.ipython.org/6603619)
-    * [Suffix trie](http://nbviewer.ipython.org/6603756)
-    * [Suffix tree](http://nbviewer.ipython.org/6665861)
-    * [Python binary search](http://nbviewer.ipython.org/6603756)
-    * [Suffix array binary search](http://nbviewer.ipython.org/6765182)
-    * [Longest common prefix (LCP)](http://nbviewer.ipython.org/6783863)
-    * [Suffix array and LCPs from Suffix tree](http://nbviewer.ipython.org/6796858)
-    * [Burrows-Wheeler Transform](http://nbviewer.ipython.org/6798379)
-    * [Reversing BWT](http://nbviewer.ipython.org/6860491)
-    * [FM Index](http://nbviewer.ipython.org/7437031)
+    * [Trie map](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_TrieMap.ipynb)
+    * [Suffix trie](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_SuffixTrie.ipynb)
+    * [Suffix tree](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_SuffixTree.ipynb)
+    * [Python binary search](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_Bisect.ipynb)
+    * [Suffix array binary search](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BinarySearchSA.ipynb)
+    * [Longest common prefix (LCP)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_LCP_from_LCP1.ipynb)
+    * [Suffix array and LCPs from Suffix tree](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_SuffixTreeToSALcp.ipynb)
+    * [Burrows-Wheeler Transform](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BWT_SimpleBuild.ipynb)
+    * [Reversing BWT](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BWT_Reverse.ipynb)
+    * [FM Index](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_FmIndex.ipynb)
 * Pairwise sequence alignment
     * [Edit distance](http://nbviewer.ipython.org/6894694)
     * [Global alignment](http://nbviewer.ipython.org/6895625)
@@ -102,7 +102,8 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms/) by Vazirani et al
         * Check out the first two chapters if you need some analysis review, and check out the chapter on [dynamic programming](http://www.cs.berkeley.edu/~vazirani/algorithms/chap6.pdf).
 * Recorded lectures for this class
-    * [Suffix tries and suffix trees](http://www.youtube.com/watch?v=hLsrPsFHPcQ)
+    * [Suffix tries and suffix trees](https://www.youtube.com/watch?v=hLsrPsFHPcQ)
+    * [Burrows-Wheeler Transform](https://www.youtube.com/watch?v=4n7NPk5lwbI)
 
 [Bowtie]: http://bowtie-bio.sourceforge.net/index.shtml
 [BWA]: http://bio-bwa.sourceforge.net
